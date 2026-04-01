@@ -1,0 +1,17 @@
+.container{
+display: flex;
+justify-content:space-between;
+}
+.hero{
+    display:flex;
+    justify-content:space-evenly;
+    color: white;
+    align-items: flex-start;
+    background-color: black;
+}
+.vrab{
+    display: flex;
+    gap: 10px;
+    color: white;
+    background-color: black;
+}
