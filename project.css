@@ -1,0 +1,19 @@
+.clear{
+    background: transparent;
+    color: #0d6efd;
+    transform: scale(1.3);
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+    border-width: 2px;
+    border-color: #0d6efd;
+    border-radius: 5px;
+    text-decoration: none;
+    }
+.clear:hover{
+background-color: #0d6efd;
+color:white;
+}
+.card-body{
+    text-align: center;
+}
